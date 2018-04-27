@@ -25,6 +25,7 @@ github_username:  dakensuk
 # Build settings
 markdown: kramdown
 theme: minima
+google_analytics: UA-28413454-2
 plugins:
   - jekyll-feed
 
