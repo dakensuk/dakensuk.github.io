@@ -28,6 +28,7 @@ theme: minima
 google_analytics: UA-28413454-2
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
